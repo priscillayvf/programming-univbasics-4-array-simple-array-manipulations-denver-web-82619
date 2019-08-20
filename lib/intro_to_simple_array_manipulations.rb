@@ -33,4 +33,5 @@ def using_insert(array, nelement)
 end
 
 def using_uniq(array)
-  
+  array.uniq!
+end
