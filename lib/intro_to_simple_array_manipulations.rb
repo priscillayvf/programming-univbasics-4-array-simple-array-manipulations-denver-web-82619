@@ -29,4 +29,5 @@ end
 
 
 def using_insert(array, nelement)
-  
+  array.insert(4, "nelement")
+end
